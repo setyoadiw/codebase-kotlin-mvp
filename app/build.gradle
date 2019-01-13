@@ -13,6 +13,9 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        buildConfigField "String", "BASE_URL", "\"https://api.indihome.co.id/\""
+        buildConfigField "String", "MYINDIHOME_AUTH", "\"bXlpbmRpaG9tZTpwN2Qya0xYNGI0TkY1OFZNODR2Vw==\""
     }
     buildTypes {
         release {

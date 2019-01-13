@@ -23,16 +23,19 @@
     <dimen name="padding_xxsmall">2.25dp</dimen>
 
     <!--Text Size-->
-    <dimen name="text_vxxl">54dp</dimen>
-    <dimen name="text_xxl">37.5dp</dimen>
-    <dimen name="text_xl">24dp</dimen>
-    <dimen name="text_ml">15dp</dimen>
-    <dimen name="text_mls">13.5dp</dimen>
-    <dimen name="text_m">12dp</dimen>
-    <dimen name="text_sm">10.5dp</dimen>
-    <dimen name="text_s">9dp</dimen>
-    <dimen name="text_xms">7.5dp</dimen>
-    <dimen name="text_xs">6dp</dimen>
+    <dimen name="text_h1">72sp</dimen>
+    <dimen name="text_h2">45sp</dimen>
+    <dimen name="text_h3">36sp</dimen>
+    <dimen name="text_h4">25.5sp</dimen>
+    <dimen name="text_h5">18sp</dimen>
+    <dimen name="text_h6">15sp</dimen>
+    <dimen name="text_subtitle1">12sp</dimen>
+    <dimen name="text_subtitle2">10.5sp</dimen>
+    <dimen name="text_body1">12sp</dimen>
+    <dimen name="text_body2">10.5sp</dimen>
+    <dimen name="text_button">10.5sp</dimen>
+    <dimen name="text_caption">9sp</dimen>
+    <dimen name="text_overline">7.5sp</dimen>
 
     <!--Custom Background Size-->
     <dimen name="radius_xxsmall">2.25dp</dimen>

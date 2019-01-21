@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">KotlinMvp</string>
+    <string name="app_name">Telkom MVP Kotlin Codebase</string>
     <string name="hello_blank_fragment">Hello fragment kosong</string>
+    <string name="app_market_link">https://play.google.com/store/apps/details?id=com.orgname.projectMap</string>
+    <string name="app_google_play_store_link">https://play.google.com/store/apps/details?id=com.orgname.projectMap
+    </string>
 </resources>

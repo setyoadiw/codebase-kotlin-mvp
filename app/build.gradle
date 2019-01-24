@@ -43,8 +43,9 @@ dependencies {
     implementation "com.android.support:cardview-v7:$supportVersion"
     implementation "com.android.support:support-vector-drawable:$supportVersion"
     implementation "com.android.support:animated-vector-drawable:$supportVersion"
-
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation "com.jakewharton.timber:timber:$rootProject.timberVersion"
 
     // Gson
     implementation "com.google.code.gson:gson:2.8.5"
@@ -57,7 +58,6 @@ dependencies {
     // reactive
     implementation "io.reactivex.rxjava2:rxjava:$rxJava2Version"
     implementation "io.reactivex.rxjava2:rxandroid:$rxAndroidVersion"
-
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'

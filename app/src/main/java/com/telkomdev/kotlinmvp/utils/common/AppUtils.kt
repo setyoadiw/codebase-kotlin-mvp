@@ -1,5 +1,6 @@
 package com.telkomdev.kotlinmvp.utils.common
 
+import android.content.ActivityNotFoundException
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
@@ -19,7 +20,7 @@ object AppUtils {
                     )
                 )
             )
-        } catch (e: android.content.ActivityNotFoundException) {
+        } catch (e: ActivityNotFoundException) {
             context.startActivity(
                 Intent(
                     Intent.ACTION_VIEW,

@@ -3,17 +3,6 @@
     <dimen name="activity_horizontal_margin">12dp</dimen>
     <dimen name="activity_vertical_margin">12dp</dimen>
 
-    <!--Margin-->
-    <dimen name="margin_xvhigh">90dp</dimen>
-    <dimen name="margin_vhigh">60dp</dimen>
-    <dimen name="margin_high">45dp</dimen>
-    <dimen name="margin_hvmed">30dp</dimen>
-    <dimen name="margin_hmed">22.5dp</dimen>
-    <dimen name="margin_hm">18.75dp</dimen>
-    <dimen name="margin_med">15dp</dimen>
-    <dimen name="margin_smed">7.5dp</dimen>
-    <dimen name="margin_small">3.75dp</dimen>
-
     <!--Padding-->
     <dimen name="padding_large">45dp</dimen>
     <dimen name="padding_slarge">15dp</dimen>

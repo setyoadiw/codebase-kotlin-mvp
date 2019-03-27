@@ -11,9 +11,9 @@ import retrofit2.http.POST
 interface ApiEndpoint {
 
     @FormUrlEncoded
-    @POST("api/user-signin-bypass")
+    @POST("api/")
     @Headers(
-        "Authorization: Basic ${BuildConfig.MYINDIHOME_AUTH}"
+        "Authorization: Basic ${BuildConfig.AUTH}"
     )
     fun login(@Field("data") data: String): Single<LoginResponse>
 }
